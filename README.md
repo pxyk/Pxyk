@@ -2,7 +2,7 @@ Hi there, I'm Mert ![](https://user-images.githubusercontent.com/18350557/176309
 ========================================================================================================================================
 
 <h3 align="left"> I am Frontend Developer.</h3>
-<h4 align="left"> My portfolio website: <a href="https://mert-aytemiz.web.app/"> mert-aytemiz.web.app </h4>
+<h4 align="left">👨‍💻 My portfolio website: <a href="https://mert-aytemiz.web.app/"> mert-aytemiz.web.app </h4>
 <h5 align="left">📍 Currently base at: Istanbul, Turkey</h5>
 
 <div size='20px'> 
