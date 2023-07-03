@@ -32,7 +32,7 @@ Hi there, I'm Mert ![](https://user-images.githubusercontent.com/18350557/176309
 <h5 align="left">📍 Currently base at: Istanbul, Turkey</h5>
 
 <div size='20px'> 
-<h2 align='left'> Connect with me 🙋‍♂️ </h2>
+<h2 align='left'> Connect with me </h2>
 <p align='left'>
 <a href = 'https://www.linkedin.com/in/mertaytemiz/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/pxyk'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
