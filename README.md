@@ -1,4 +1,6 @@
-![35E74CBB-7F3C-4151-920A-28871BCEE333_1_102_a](https://github.com/pxyk/Pxyk/assets/101509856/a9fbe864-ed78-43ca-84c0-160d196e92ff)
+![Uploading ezgif-3-0807d71c30.gif…]()
+
+
 
 <!--
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mert Aytemiz
