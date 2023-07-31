@@ -1,3 +1,5 @@
+![35E74CBB-7F3C-4151-920A-28871BCEE333_1_102_a](https://github.com/pxyk/Pxyk/assets/101509856/a9fbe864-ed78-43ca-84c0-160d196e92ff)
+
 <!--
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mert Aytemiz
 ========================================================================================================================================
@@ -23,6 +25,7 @@ I am Front End developer.
 <p align="left"> <a href="https://www.linkedin.com/in/mertaytemiz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 -->
 
+<!--
 
 Hi there, I'm Mert ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ========================================================================================================================================
@@ -59,6 +62,7 @@ Hi there, I'm Mert ![](https://user-images.githubusercontent.com/18350557/176309
 <br>
 </p>
 <br>
+-->
                                                                                                                                        
 <!--
 **pxyk/Pxyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
