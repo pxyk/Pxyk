@@ -1,5 +1,4 @@
-![Uploading ezgif-3-0807d71c30.gif…]()
-
+![ezgif-3-0807d71c30](https://github.com/pxyk/Pxyk/assets/101509856/3de9fb68-d01d-4bac-9255-57a1f2304825)
 
 
 <!--
